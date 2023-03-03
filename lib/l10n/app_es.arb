@@ -1,0 +1,24 @@
+{
+    "app_name": "MyApp",
+    "language": "Idioma",
+    "selected_language": "Spanish",
+    "terminal" : "Terminal",
+    "devices" : "Dispositivos",
+    "settings" : "Ajustes",
+    "info" : "Información",
+    "scan": "ESCANEAR",
+    "stop": "DETENER",
+    "searching": "Buscando...",
+    "esc": "ESC",
+    "enter": "INGRESAR",
+    "bluetooth_classic": "Bluetooth clásico",
+    "bluetooth_le": "Bluetooth LE",
+    "turn_on": "Encender",
+    "retry": "REVER",
+    "paired": "Emparejada",
+    "please_turn_on_bluetooth": "¡Por favor, encienda el Bluetooth!",
+    "permission_required": "¡Permiso requerido!",
+    "permission_required_message": "¡Permita el permiso requerido para usar esta aplicación!"
+}
+
+
