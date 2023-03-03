@@ -1,0 +1,22 @@
+{
+    "app_name": "MyApp",
+    "language": "Language",
+    "selected_language": "English",
+    "terminal" : "Terminal",
+    "devices" : "Devices",
+    "settings" : "Settings",
+    "info" : "Info",
+    "scan": "SCAN",
+    "stop": "STOP",
+    "searching": "Searching...",
+    "esc": "ESC",
+    "enter": "ENTER",
+    "bluetooth_classic": "Bluetooth Classic",
+    "bluetooth_le": "Bluetooth LE",
+    "turn_on": "Turn On",
+    "retry": "RETRY",
+    "paired": "Paired",
+    "please_turn_on_bluetooth": "Please, Turn On Bluetooth!",
+    "permission_required": "Permission Required!",
+    "permission_required_message": "Please allow required permission to use this app!"
+}
